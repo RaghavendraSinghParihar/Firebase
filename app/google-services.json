@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1015054773391",
+    "project_id": "fir-demobydigendra",
+    "storage_bucket": "fir-demobydigendra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015054773391:android:565f5719b4741f9288d4fa",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemobydigendra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015054773391-04httn6o6qpihs8feu6hvuaafnbe53mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasedemobydigendra",
+            "certificate_hash": "1d432c554aa7dbd8bd2468e9ea825e4501b1ece9"
+          }
+        },
+        {
+          "client_id": "1015054773391-lo4rcmnkflj0ft3cdlq3oaglko22l67n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDIZT3N4qaQ81Out_1bYx9GkG54KwtDAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015054773391-lo4rcmnkflj0ft3cdlq3oaglko22l67n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
